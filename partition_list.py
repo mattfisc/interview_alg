@@ -1,9 +1,9 @@
 def partition_list(nums, k):
     nums.sort()
-    for i in range(len(nums)):
-        if nums[i] < k:
-            continue
-        elif nums[i] == 3:
+    # for i in range(len(nums)):
+    #     if nums[i] < k:
+    #         continue
+    #     elif nums[i] == 3:
 
 
 
